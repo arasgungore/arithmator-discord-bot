@@ -61,18 +61,6 @@ Node.js app that implements a Discord bot named "Arithmator" for performing basi
 
 
 
-## Customization
-
-You can customize the bot's prefix and add more features as needed.
-
-
-
-## Contributing
-
-Feel free to contribute to this project by opening issues or submitting pull requests.
-
-
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -82,8 +70,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 - Thanks to the [discord.js](https://discord.js.org/) library for making it easy to work with the Discord API.
-
-```
 
 
 

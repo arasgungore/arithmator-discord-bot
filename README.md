@@ -20,7 +20,7 @@ A Node.js app that implements a Discord bot for performing basic and advanced ar
 1. Navigate to the project directory:
 
    ```bash
-   cd discord-math-bot
+   cd discord-bot
    ```
 
 2. Install dependencies:

@@ -1,6 +1,6 @@
 # arithmator-discord-bot
 
-Node.js app that implements a Discord bot named "Arithmator" for performing basic and advanced arithmetic operations.
+A Node.js app that implements a Discord bot for performing basic and advanced arithmetic operations.
 
 
 
@@ -14,33 +14,22 @@ Node.js app that implements a Discord bot named "Arithmator" for performing basi
 
 ## Getting Started
 
-### Prerequisites
-
-- Node.js installed
-- Discord bot token
-
 
 ### Installation
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/discord-math-bot.git
-   ```
-
-2. Navigate to the project directory:
+1. Navigate to the project directory:
 
    ```bash
    cd discord-math-bot
    ```
 
-3. Install dependencies:
+2. Install dependencies:
 
    ```bash
    npm install
    ```
 
-4. Create a `.env` file in the project root and add your Discord bot token:
+3. Create a `.env` file in the project root and add your Discord bot token:
 
    ```
    DISCORD_TOKEN=your_bot_token_here
